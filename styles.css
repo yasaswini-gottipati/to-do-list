@@ -96,7 +96,7 @@ width:200px;height:200px;
 
 }
 
-@media (max-width: 480px){
+@media (max-width: 629px){
     img{
     display: none;
   }
